@@ -10,8 +10,8 @@ const Home = () => {
             </div>
             
             <div className='content'>
-                <p className='tagline'>Every Choice Matters!!</p>
-                <img src={img} alt="png" className='image'></img>
+                    <p className='tagline'>Every Choice Matters!!</p>
+                    <img src={img} alt="png" className='image'></img>
             </div>
         </div>
     );
